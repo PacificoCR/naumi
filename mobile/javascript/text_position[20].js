@@ -1,0 +1,1 @@
+﻿positionForPages[20]={page:20,positions:[{word:"COMMUNITY",left:0.074048,top:0.501920,width:0.251914,height:0.031651},{word:"PLAN",left:0.149920,top:0.545571,width:0.100178,height:0.031651}]};

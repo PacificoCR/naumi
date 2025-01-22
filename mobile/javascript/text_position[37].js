@@ -1,0 +1,1 @@
+﻿positionForPages[37]={page:37,positions:[{word:"Artist's",left:0.884390,top:0.939298,width:0.028982,height:0.008729},{word:"concept",left:0.915872,top:0.939298,width:0.033184,height:0.008729}]};

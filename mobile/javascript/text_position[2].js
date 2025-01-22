@@ -1,0 +1,1 @@
+﻿positionForPages[2]={page:2,positions:[{word:"LIFE",left:0.027778,top:0.032566,width:0.465702,height:0.174465},{word:"REIMAGINED",left:0.591770,top:0.032566,width:1.399336,height:0.174465}]};

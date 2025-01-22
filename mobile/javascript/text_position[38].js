@@ -1,0 +1,1 @@
+﻿positionForPages[38]={page:38,positions:[{word:"MARKETING",left:0.153416,top:0.449875,width:0.693202,height:0.092183},{word:"FLOOR",left:0.107372,top:0.549085,width:0.379826,height:0.092183},{word:"PLANS",left:0.539068,top:0.549085,width:0.353522,height:0.092183}]};

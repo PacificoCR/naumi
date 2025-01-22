@@ -1,0 +1,1 @@
+﻿positionForPages[44]={page:44,positions:[{word:"LIFE",left:0.270082,top:0.297588,width:0.465702,height:0.174465},{word:"IS",left:0.833952,top:0.297588,width:0.181290,height:0.174465},{word:"YOU",left:0.284432,top:0.507576,width:0.424700,height:0.174465},{word:"MAKE",left:0.807302,top:0.507576,width:0.608090,height:0.174465}]};
